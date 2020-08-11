@@ -2,7 +2,7 @@
 
 ## That Feeling of Workflowing 20200810
 
-  * Video
+  * [Video](https://www.youtube.com/watch?v=jU1Zv21GvT4)
   * [Slides](https://docs.google.com/presentation/d/18tEfBymtD50g3gTM2s2hfdRaoJTXRSohRSJxHb-FgU4/edit?usp=sharing)
   
 ## Demo Stuff
