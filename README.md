@@ -70,5 +70,13 @@ in `~/shrtcts.yml`:
 
 ```
 
+### QA Stuff:
 
+* [{drake} manual](https://books.ropensci.org/drake/)
+* [Will Landau's rOpenSci community call](https://ropensci.org/commcalls/2019-09-24/)
+* {drake} for new R users? I didn't give a good answer to this in the talk. Like I mention in ['The {drake} post'](https://milesmcbain.xyz/the-drake-post/):
+
+> Building comfort with writing functions by forcing yourself to do it more often would be a great stepping stone to a workflow like this.
+
+Anyone know any good resources for learning how to make R functions?
 
