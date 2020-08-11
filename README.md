@@ -72,6 +72,7 @@ in `~/shrtcts.yml`:
 
 ### QA Stuff:
 
+* [Shortcuts made with Garrick Aden-Buie's {shrtcts}](https://github.com/gadenbuie/shrtcts)
 * [{drake} manual](https://books.ropensci.org/drake/)
 * [Will Landau's rOpenSci community call](https://ropensci.org/commcalls/2019-09-24/)
 * {drake} for new R users? I didn't give a good answer to this in the talk. Like I mention in ['The {drake} post'](https://milesmcbain.xyz/the-drake-post/):
