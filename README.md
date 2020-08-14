@@ -11,7 +11,7 @@
 * [Live coded drake graph](https://github.com/MilesMcBain/nycr_meetup_talk_code)
 * [{drake}](https://github.com/ropensci/drake)
 * [{dflow}](https://github.com/milesmcbain/dflow)
-* [{fnmate}](https://github.com.milesmcbain/fnmate)
+* [{fnmate}](https://github.com/milesmcbain/fnmate)
 
 ### Keybindings
 
